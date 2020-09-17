@@ -1,11 +1,7 @@
-# <b> <u>Olá Mundo!</u> </b>
- Primeiro Projeto Git
+#  <h1><u> <font color="darkblue"> Olá, Mundo! </font> </u> </h1> <hr>
+<h2>Primeiro Projeto Git</h2> 
 
-Repositório de primeiro teste criado
-
-Alteração feita diretamente no site.
-
-Conectando-se em minha rede:
+<b>Conectando-se em minha rede:</b>
 
 <p align="left">	
   <a href="https://www.linkedin.com/in/lucas-costa-batista/">
