@@ -5,9 +5,9 @@
 
 <p align="left">	
   <a href="https://www.linkedin.com/in/lucas-costa-batista/">
-      <img alt="Lucas Costa" src="https://img.shields.io/badge/-LucasCostaBatista-8257E5?style=flat&logo=Linkedin&logoColor=white" /> </a> <hr>
+      <img alt="Lucas Costa" src="https://img.shields.io/badge/-LucasCostaBatista-8257E5?style=flat&logo=Linkedin&logoColor=white" /> </a> <br>
    No meu Linkdin você encontrará suporte para hardware e software com um preço muito bom,  pois faço isso por prazer.<hr>
-    <b><u>Contato com o numero: (11)99540-9925...</b></u>
+    <b><u>Contato com o numero: (11)99540-9925 falar com Lucas Costa. </b></u>
   </a>
  </p>
 
